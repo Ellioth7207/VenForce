@@ -151,6 +151,6 @@ VenForce modifies Android system behavior. The author assumes no responsibility 
 
 <div align="center">
 
-<a href="https://i.ibb.co.com/TxNqw4c4/qr-ID1026576754000-03-09-26-1788411437-1788411438034.jpg"><img src="https://img.shields.io/badge/Donate-Support%20VenForce-FF9500?style=flat-square" alt="Donate" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
+<a href="https://i.ibb.co.com/TxNqw4c4/qr-ID1026576754000-03-09-26-1788411437-1788411438034.jpg"><img src="https://img.shields.io/badge/Donate-QRIS-FF9500?style=flat-square" alt="Donate" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
 
 </div>
