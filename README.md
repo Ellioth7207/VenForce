@@ -13,7 +13,7 @@
 
 ## Overview
 
-VenForce is a lightweight, root‑based system module for Android, built to improve performance, responsiveness, and stability across a broad range of devices and chipset configurations. It applies a set of system‑level tuning routines at boot and exposes a WebUI for live configuration on supported manager apps.
+VenForce is a lightweight, universal root-based system module designed to improve performance, responsiveness, and stability across a wide range of Android devices and chipset configurations. It applies a set of system-level optimizations automatically at boot and provides a WebUI for live configuration and management on supported root manager applications.
 
 ## Highlights
 
