@@ -143,7 +143,7 @@ VenForce modifies Android system behavior. The author assumes no responsibility 
 | Role | Handle |
 | --- | --- |
 | Development and maintenance | [@vennec](https://t.me/Vennec) |
-| Link authorization | [@ellioth7207](https://github.com/ellioth7207) |
+| Link authorization | [@ellioth7207](https://t.me/ellioth7207) |
 
 <hr>
 
