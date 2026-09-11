@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<a href="https://sfl.gl/zrLiDYoa"><img src="https://img.shields.io/badge/Download-VenForce-0A84FF?style=flat-square&logo=android&logoColor=white" alt="Download VenForce" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
-<a href="https://t.me/Vennec"><img src="https://img.shields.io/badge/Support-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Support Channel" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
+<a href="https://sfl.gl/zrLiDYoa"><img src="https://img.shields.io/badge/Download-TapHere-0A84FF?style=flat-square&logo=android&logoColor=white" alt="Download VenForce" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
+<a href="https://t.me/Vennec"><img src="https://img.shields.io/badge/Telegram-@VENNEC-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Support Channel" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
 
 </div>
 
