@@ -32,7 +32,7 @@ VenForce is a lightweight, universal root-based system module designed to improv
 | --- | --- |
 | Name | VenForce |
 | Module ID | `ven_force` |
-| Version | 13.0-stable-fix |
+| Version | 14.0 |
 | Version Code | 1229 |
 | Author | [@vennec](https://t.me/Vennec) |
 | Status | Stable |
