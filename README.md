@@ -103,11 +103,9 @@ VenForce ships with a WebUI for managers that support the WebUI interface. It su
 
 ## Changelog
 
-### 13.0-stable-fix
+### 14.0-stable-fix
 
-- System optimization improvements
-- Performance improvements
-- System responsiveness improvements
+- optimization improvements
 - WebUI improvements
 - Script improvements
 - Stability improvements
