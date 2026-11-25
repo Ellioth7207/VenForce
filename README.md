@@ -52,7 +52,7 @@ VenForce detects the active root solution at install time and adapts accordingly
 | MamboSU | |
 | KOWSU | |
 | SukiSU | |
-| AXManager / Axeron | For No Root Method |
+| AXManager / fOxygen | For No Root Method |
 
 Devices reporting an API level below 29 (Android 10) are flagged as unsupported during installation.
 
