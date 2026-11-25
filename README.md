@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/2Yc0dJHY/file-000000002aec8211833c370d3bc3fdfe.png" alt="VenForce" width="100%">
+  <img src="https://img.ge/ib/yFaMM13.png" alt="VenForce" width="100%">
 </div>
 
 <div align="center">
