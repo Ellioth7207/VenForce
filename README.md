@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://sfl.gl/zrLiDYoa"><img src="https://img.shields.io/badge/Download-TapHere-0A84FF?style=for-the-badge&logo=android&logoColor=white" alt="Download Ven26Emoji" height="45" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
+<a href="https://sfl.gl/lKXNCFDD"><img src="https://img.shields.io/badge/Download-TapHere-0A84FF?style=for-the-badge&logo=android&logoColor=white" alt="Download Ven26Emoji" height="45" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
 <a href="https://t.me/Vennec"><img src="https://img.shields.io/badge/Telegram-@VENNEC-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Channel" height="45" style="border:2px solid #0A84FF;border-radius:8px;padding:2px;"></a>
 
 </div>
