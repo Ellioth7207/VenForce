@@ -82,8 +82,10 @@ VenForce/
 │   └── index.html
 ├── customize.sh
 ├── module.prop
+├── config.prop
 ├── post-fs-data.sh
 ├── service.sh
+├── uninstall.sh
 └── ven.png
 ```
 
